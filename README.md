@@ -1,8 +1,6 @@
 # primeiro_reposit-rio
 criei minha primeira pasta
-# Olá, eu sou [Arthur] 👋                ![Meu GIF legal]https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTZ3cHBnODkwb251YzVkMzRiNTFvczhucG44emw3Znl3eXJ5Y3hndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6fJ5z2bgCLBshZUA/giphy.gif
-
-## Sobre mim
+# Olá, eu sou Arthur 👋                         
 
 Sou estudante de Python e estou iniciando minha jornada na programação. Tenho muita vontade de aprender, crescer e me desenvolver na área de tecnologia. Meu foco atual é fortalecer meus conhecimentos em Python e explorar diferentes áreas, como desenvolvimento web, automação e análise de dados.
 
@@ -24,10 +22,9 @@ Sou estudante de Python e estou iniciando minha jornada na programação. Tenho 
 
 ## Meus projetos
 
-Aqui você encontra alguns dos meus projetos pessoais e estudos em Python:
+Ainda não tenho projetos
 
-- Projeto 1: [Nome do Projeto](link-do-projeto) — breve descrição do projeto
-- Projeto 2: [Nome do Projeto](link-do-projeto) — breve descrição do projeto
+
 
 ## Contato
 
