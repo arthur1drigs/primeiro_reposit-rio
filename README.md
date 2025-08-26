@@ -1,7 +1,6 @@
 # primeiro_reposit-rio
 criei minha primeira pasta
-# Olá, eu sou [Arthur] 👋                <img width="480" height="461" alt="image" src="https://github.com/user-attachments/assets/64d04072-018a-42a9-a5da-923d9ad9201f" />
-                                              
+# Olá, eu sou [Arthur] 👋                ![Meu GIF legal]https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTZ3cHBnODkwb251YzVkMzRiNTFvczhucG44emw3Znl3eXJ5Y3hndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6fJ5z2bgCLBshZUA/giphy.gif
 
 ## Sobre mim
 
