@@ -5,7 +5,8 @@ criei minha primeira pasta
 Sou estudante de Python e estou iniciando minha jornada na programação. Tenho muita vontade de aprender, crescer e me desenvolver na área de tecnologia. Meu foco atual é fortalecer meus conhecimentos em Python e explorar diferentes áreas, como desenvolvimento web, automação e análise de dados.
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hyNWptenBvY3VuOGs4cXJqM2k3eXpvMHpweDR2ZzR4M2E4Mmh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7hJZcKzjIufeOmqKSj/giphy.gif" alt="Descrição do GIF">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxeXh6NXBzbzNsaDA4MmRvdG10NnBwbzMyNzJjNmJ1MmJraDRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCwAEs05phtK/giphy.gif" alt="GIF animado">
+
 
 
 
