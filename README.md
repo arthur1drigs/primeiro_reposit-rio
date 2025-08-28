@@ -15,14 +15,9 @@ Sou estudante de Python e estou iniciando minha jornada na programação. Tenho 
 
 - Conhecimentos básicos/intermediários em Python
 - Lógica de programação
-- Estruturas de dados (listas, dicionários, tuplas)
-- Uso de bibliotecas populares como `pandas`, `requests` e `matplotlib`
-- Noções de Git e GitHub
-- Conceitos básicos de orientação a objetos
 
 ## O que estou aprendendo agora
 
-- Desenvolvimento Web com Flask/Django
 - Automação de tarefas com Python
 - Fundamentos de bancos de dados (SQL)
 - Testes automatizados
@@ -38,7 +33,7 @@ Ainda não tenho projetos
 Estou aberto a conexões, colaborações e novas oportunidades para aprender. Pode me encontrar aqui:
 
 
-- Email: seuemail@exemplo.com
+- Email: 
 
 ---
 
