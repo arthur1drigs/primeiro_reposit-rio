@@ -33,9 +33,13 @@ Ainda não tenho projetos
 Estou aberto a conexões, colaborações e novas oportunidades para aprender. Pode me encontrar aqui:
 
 
-- Email: 
+- Email:arthur.drigs@gmail.com 
 
----
 
-Obrigado por visitar meu perfil! 🚀
+
+
+Obrigado por visitar meu perfil! 😁
+
+![JeffClarenceGIF](https://github.com/user-attachments/assets/494595db-1c02-406e-b44e-220e5a6e8f4d)
+
 
